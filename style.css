@@ -140,7 +140,7 @@ body{
 
 .fourthbox{
     height: 650px;
-    background-image: url(../kopiko/fourthimage.jpg);
+    background-image: url(fourthimage.jpg);
     background-repeat: no-repeat;
     background-size: cover;
    background-position: center;
